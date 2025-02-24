@@ -1,0 +1,1 @@
+The code presented here is the solution dveloped for the first pratical exercise of the college subject of S05-Human-Machine Interaction.
